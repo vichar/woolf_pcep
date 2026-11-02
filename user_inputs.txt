@@ -1,0 +1,11 @@
+Transformational AI: Analyzing Ecommerce Large Datasets for Machine Learning
+Completed by: Vichar Nuchsiri
+—————————————-
+
+Question 1: Data frame consisting of review text and other attributes: rating title text images asin parent_asin user_id timestamp helpful_vote verified_purchase 
+Question 2: It is as expected, limited samples of rows are produced
+Question 3: We use dataframe's options function to set the parameters for displaying data and limit to first 10 items in the array (unsorted)
+Question 4: Meta consisting information for describing the review , it links product attributes to reviews. 
+Question 5: head and dtypes are both useful for understadning and explore data.
+Question 6: The graph is empty, or there is no discernible trend.
+Question 7: There are fewer expensive items that are highly rated
